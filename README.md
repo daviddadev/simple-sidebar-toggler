@@ -1,8 +1,22 @@
-# sidebar-toggle-on-button-click
+# Welcome to DavidDaDev GitHub Page
 
-Go to the [demo](https://sotoxp.github.io/sidebar-toggle-on-button-click/) site.
+This project is a basic app with a sliding menu bar.
 
-### Description: 
-In this Button Toggle project when the button is clicked the sidebar will toggle in and out of view.
+Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
-No frameworks were used for this project. Simple query calls, google font: Roboto, javascript, html and css.  
+## Launch
+
+To see the project live tap [here](https://daviddadev.github.io/simple-sidebar-toggler/index.html), and thanks for visiting my GitHub. Enjoy.
+
+- David
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Disclaimer
+On older projects, some links might be dead, broken, or empty. Some projects are just to show the look and feel without 100% functionality. 
